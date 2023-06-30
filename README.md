@@ -1,2 +1,5 @@
 # ATSsistant
-ATS Attendance system assistant
+
+Its all but just a giant TODO:
+
+Wait until i learn TypeScript
